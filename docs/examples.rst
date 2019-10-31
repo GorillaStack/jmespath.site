@@ -457,7 +457,7 @@ Main Page
 ---------
 
 Let's look at a modified version of the expression on the `JMESPath front page
-<http://jmespath.org>`__.
+<https://gorillastack-jmespath.netlify.com>`__.
 
 
 .. jpexample:: locations[?state == 'WA'].name | sort(@)[-2:] | {WashingtonCities: join(', ', @)}

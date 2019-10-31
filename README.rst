@@ -5,7 +5,7 @@ JMESPath Site
    :target: https://gitter.im/jmespath/chat
 
 
-This is the repo for the website: http://gorillastack-jmespath.netlify.com
+This is the repo for the website: https://gorillastack-jmespath.netlify.com
 
 Join us on our `Gitter channel <https://gitter.im/jmespath/chat>`__.
 
@@ -14,7 +14,7 @@ Overview
 ========
 
 The https://gorillastack-jmespath.netlify.com/ site is a static website that uses
-`Sphinx <http://sphinx-doc.org/>`__, a python documentation
+`Sphinx <https://sphinx-doc.org/>`__, a python documentation
 system, under the hood.  If you are familiar with sphinx, then you know how to
 build this static site.
 
@@ -56,7 +56,7 @@ Once you have a virtual environment set up, you can start working on the
 JMESPath site. All the content is under the ``docs/`` folder.  All of the
 content is written using reStructuredText.  If you are not familiar with the
 syntax, the sphinx site has an excellent
-`reStructuredText primer <http://sphinx-doc.org/rest.html>`__.
+`reStructuredText primer <https://sphinx-doc.org/rest.html>`__.
 
 Once you've made changes you can build the docs by running ``make html``.  Make
 sure that you've activated your virtual environment (this was done in the
@@ -69,7 +69,7 @@ rendered html::
   $ cd docs/_build/html
   $ python -m SimpleHTTPServer
 
-You can then view the docs at http://localhost:8000/
+You can then view the docs at https://localhost:8000/
 
 License
 =======
