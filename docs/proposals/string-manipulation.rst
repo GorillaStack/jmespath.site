@@ -1,6 +1,6 @@
-=================
-Slice Projections
-=================
+==================================
+String Manipulation (GorillaStack)
+==================================
 
 :JEP: xx
 :Author: Chris Armstrong (GorillaStack)
