@@ -18,3 +18,4 @@ changes. Proposals are marked as either "draft", "accepted", or "rejected".
    proposals/improved-filters
    proposals/slice-projections
    proposals/raw-string-literals
+   proposals/string-manipulation
