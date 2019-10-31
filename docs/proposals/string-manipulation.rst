@@ -31,6 +31,7 @@ split
 -----
 
 ::
+
     array[string] split(string $subject, string $split_str, number $max = -1)
 
 Given string `$subject`, split will split on occurrences string `$split_str`, up to and including
