@@ -10,9 +10,9 @@ in action.  If you're new to JMESPath, you can start with the
 .. note::
 
   Do you have any examples you'd like to add?  Send a
-  `pull request <https://github.com/jmespath/jmespath.site>`__ on github.
+  `pull request <https://github.com/GorillaStack/jmespath.site>`__ on github.
   Are there examples you'd like to see that aren't here?  Let us know
-  by opening an `issue on github <https://github.com/jmespath/jmespath.site/issues>`__.
+  by opening an `issue on github <https://github.com/GorillaStack/jmespath.site/issues>`__.
 
 
 
@@ -457,7 +457,7 @@ Main Page
 ---------
 
 Let's look at a modified version of the expression on the `JMESPath front page
-<http://jmespath.org>`__.
+<https://gorillastack-jmespath.netlify.com>`__.
 
 
 .. jpexample:: locations[?state == 'WA'].name | sort(@)[-2:] | {WashingtonCities: join(', ', @)}
