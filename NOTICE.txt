@@ -1,2 +1,3 @@
 JMESPath Website, Documentation, and Specification
 Copyright 2015 James Saryerwinnie. All Rights Reserved.
+Copyright 2019 GorillaStack.

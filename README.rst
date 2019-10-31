@@ -5,7 +5,7 @@ JMESPath Site
    :target: https://gitter.im/jmespath/chat
 
 
-This is the repo for the website: http://jmespath.org
+This is the repo for the website: http://gorillastack-jmespath.netlify.com
 
 Join us on our `Gitter channel <https://gitter.im/jmespath/chat>`__.
 
@@ -13,7 +13,7 @@ Join us on our `Gitter channel <https://gitter.im/jmespath/chat>`__.
 Overview
 ========
 
-The http://jmespath.org/ site is a static website that uses
+The https://gorillastack-jmespath.netlify.com/ site is a static website that uses
 `Sphinx <http://sphinx-doc.org/>`__, a python documentation
 system, under the hood.  If you are familiar with sphinx, then you know how to
 build this static site.

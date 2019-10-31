@@ -6,6 +6,9 @@ The JMESPath specification is implemented in varioues languages.  Each list
 below shows JMESPath libraries as well as the compliance level.  The compliance
 level is based on which compliance tests the library can pass.
 
+**GorillaStack maintains a fork in JavaScript which is divergent from the
+original specification. Below, we have provided links to the GorillaStack
+versions where approriate or the original implementations.**
 
 .. cssclass:: table
 
@@ -22,8 +25,8 @@ level is based on which compliance tests the library can pass.
     - `jmespath.php <https://github.com/jmespath/jmespath.php>`__
     - Fully compliant
   * - Javascript
-    - `jmespath.js <https://github.com/jmespath/jmespath.js>`__
-    - Fully compliant
+    - `jmespath.js <https://github.com/GorillaStack/jmespath.js>`__
+    - Fully compliant w/ GorillaStack additions
   * - Ruby
     - `jmespath.rb <https://github.com/trevorrowe/jmespath.rb>`__
     - Fully compliant
